@@ -1,1 +1,1 @@
-# Cube Data Management System
+# CUBE Data Management System
