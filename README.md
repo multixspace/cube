@@ -1,1 +1,1 @@
-# CUBE Distributed Computing System
+# Cube Distributed Data Management System
